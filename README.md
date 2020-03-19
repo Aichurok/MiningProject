@@ -1,2 +1,2 @@
 # MiningProject
- как признаки влияют на цену дома; как по извеcтным значениям признаков предсказать среднюю цену (Регрессионные модели); как разделить районы на разные группы по каким-либо свойствам (кластеризация)
+ This project based on analysis of big data that was collected from Boston house-price data. I had investigeted what features effect to the price and how predict the average price of sample house using Regression models. In addition to that I grouped houses according to features using clustering techniques.
